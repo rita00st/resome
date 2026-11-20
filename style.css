@@ -129,9 +129,11 @@
     background: #fff; border: 1px solid #eae8f3; border-radius: 20px;
   }
   .stat .num {
-    font-size: 2.6rem; font-weight: 900; color: var(--accent-dark);
+    font-size: 2.6rem; font-weight: 900; 
+    /* color: var(--accent-dark);
     background: linear-gradient(135deg, var(--accent), var(--teal));
-    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent; */
     line-height: 1;
   }
   .stat .lbl { color: #666; font-size: 0.9rem; margin-top: 0.5rem; }
